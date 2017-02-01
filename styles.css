@@ -1,7 +1,25 @@
 .inputveld{
     width: 100%;
+<<<<<<< HEAD
     border: solid 5px;
     height: 3em;
     background-color: skyblue;
     margin-top: 0.1em;
+=======
+    border: solid 3px;
+    height: 3em;
+    background-color: lightslategray;
+}
+.knopje{
+    padding: 1.1em;
+    background-color: red;
+    color: white;
+    transition: 0.5s;
+}
+.knopje:hover{
+    padding-right: 2em;
+    cursor: pointer;
+    background-color: indianred;
+    color: black;
+>>>>>>> 2bb111277c105c90267e1d0b151e6c5952f24637
 }

@@ -1,19 +1,19 @@
 [
     {
         "naam":"Hardwell",
-        "Genre":"house,progressive house,elctro,techhouse",
+        "genre":"house,progressive house,elctro,techhouse",
         "prijs":9250,
         "minuur":1.5,
         "foto":"https://pbs.twimg.com/profile_images/823542713836507136/xqi5ArLS_400x400.jpg",
-        "video":"https://www.youtube.com/watch?v=ULwcsIPdc8w"
+        "video":"https://www.youtube.com/embed/ULwcsIPdc8w"
     },
     {
         "naam":"Martin Garrix",
-        "Genre":"house,elctrohouse",
+        "genre":"house,elctrohouse",
         "prijs":9500,
         "minuur":1.5,
         "foto":"https://pbs.twimg.com/profile_images/813065746934808576/iTLDxVWC_400x400.jpg",
-        "video":"https://www.youtube.com/watch?v=gCYcHz2k5x0"
+        "video":"https://www.youtube.com/embed/gCYcHz2k5x0"
     },
     {
         "naam":"Armin van Buuren",
@@ -21,7 +21,7 @@
         "prijs":4000,
         "minuur":1.5,
         "foto":"https://a2-images.myspacecdn.com/images03/34/63fbce1602e941a5850da7742a0a433b/300x300.jpg",
-        "video":"https://www.youtube.com/watch?v=dU26cGlmkRg"
+        "video":"https://www.youtube.com/embed/dU26cGlmkRg"
     },
     {
         "naam":"Don Diablo",
@@ -29,7 +29,7 @@
         "prijs":4850,
         "minuur":2,
         "foto":"https://geo-media.beatport.com/image/7948906.jpg",
-        "video":"https://www.youtube.com/watch?v=Oy9V_4im0wg"
+        "video":"https://www.youtube.com/embed/Oy9V_4im0wg"
     },
     {
         "naam":"Quintino",
@@ -37,6 +37,6 @@
         "prijs":8450,
         "minuur":1.5,
         "foto":"http://www.aprod.ch/wp-content/uploads/quintino.jpg",
-        "video":"https://www.youtube.com/watch?v=1Vt8TjLgwxk"
+        "video":"https://www.youtube.com/embed/1Vt8TjLgwxk"
     }
 ]
